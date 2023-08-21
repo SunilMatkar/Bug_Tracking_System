@@ -1,7 +1,5 @@
 # Bug_Tracking_System
 
-# Project Description:
-# Automated Bug Tracking and Reporting System
 
 # Overview:
 The Automated Bug Tracking and Reporting System is a web-based application developed to streamline the software development life cycle by automating the process of identifying, reporting, tracking, and resolving software bugs. The system aims to enhance team collaboration and efficiency by providing a user-friendly web interface for bug reporting and communication.
